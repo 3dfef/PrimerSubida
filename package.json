@@ -1,0 +1,15 @@
+{
+  "name": "entregable1",
+  "version": "1.0.0",
+  "description": "(principal.js)",
+  "main": "principal.js",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yerson Andres Sequea Usme",
+  "license": "ISC"
+}
